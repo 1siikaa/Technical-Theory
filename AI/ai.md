@@ -10,3 +10,8 @@ Examples:
 	Face recognition
 	ChatGPT
 	Voice assistants
+
+
+AI Problem Solving Techniques
+Problem solving & search: How AI chooses actions to reach a goal
+Techniques: Breadth-first search, depth-first search, A* search

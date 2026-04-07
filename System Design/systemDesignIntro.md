@@ -73,4 +73,29 @@ Scaling Approach
 	•	What can fail?
 	•	How to scale further?
 
+# What is scalability? How do you achieve it?
+Scalability is designing a system that can grow to support more users or traffic efficiently, without significant degradation in performance.
 
+## Types of Scalability
+### Vertical Scaling
+Add more resources to a single machine.
+  Increasing RAM
+  Increasing CPU
+  Increasing SSD
+  (Simple approach but has limits)
+  (Costly on high scale)
+  Example: Moving from a 4-core server to a 16-core server for your database.
+
+### Horizontal Scaling
+Adding more machines to the system
+Distribute load across servers
+Preferred for large-scale systems
+Enables high availability and fault tolerance
+Example: Adding multiple app servers behind a load balancer to handle 1M requests per second.
+
+### Why scalability is important?
+Avoid system crashes under high traffic
+Handle growth (more users, data)
+Maintain fast response time
+Reduce cost per user at scale
+A scalable system doesn't need to rebuilt when traffic grows.
