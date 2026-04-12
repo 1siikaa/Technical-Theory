@@ -14,4 +14,4 @@ Examples:
 
 AI Problem Solving Techniques
 Problem solving & search: How AI chooses actions to reach a goal
-Techniques: Breadth-first search, depth-first search, A* search
+Techniques: Breadth-first search, depth-first search, AI search
